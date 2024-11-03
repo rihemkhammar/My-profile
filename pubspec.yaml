@@ -1,0 +1,57 @@
+name: my_profile
+description: "A new Flutter project."
+
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  file_picker: ^5.0.1
+  dio: ^5.0.10
+  cupertino_icons: ^1.0.6
+  provider: ^6.0.0 
+  path_provider: ^2.0.10
+  fluttertoast: ^8.0.9
+  http: ^0.13.6
+  url_launcher: ^6.0.20
+  flutter_staggered_grid_view: ^0.6.1
+  calendar_view: ^0.0.3
+  webfeed: ^0.7.0
+  string_similarity: ^2.0.0
+  sortedmap: ^0.5.1
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: 4.0.0  
+  
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+    - assets/bleu.png
+    - assets/electronique.png
+    - assets/ia.png
+    - assets/web.png
+    - assets/arduino.png
+    - assets/c.png
+    - assets/cpp.png
+    - assets/flutter.png
+    - assets/git.png
+    - assets/java.png
+    - assets/javascript.png
+    - assets/linux.png
+    - assets/css.png
+    - assets/html.png
+    - assets/projects/
+    - assets/projects/
+
+    
